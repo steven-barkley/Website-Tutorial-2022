@@ -2,7 +2,7 @@ import React from 'react';
 // Need to inject component functions Greetings into the index.html root need to use//
 import ReactDOM from 'react-dom';
 // ReactDom uses a renderMethod ... used at end of file
-import '../src/index.css';
+import "./index.css";
 // We can create functions however we like function() or arrow function => *//
 // Stateless functional component
 // JSX Rules
