@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 | Date     | Link          | Subject                                                    |
 |:---------|:-------------:|-----------------------------------------------------------:|
+| 03/26/22 |www.reactjs.org| Fundamentals of REACT - Built TICTACTOE App|
