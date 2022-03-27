@@ -76,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | 03/24/22 |www.reactjs.org| Fundamentals of REACT - Built TICTACTOE App|
 | 03/25/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Passing JSX into the UI|
 | 03/26/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Mini-Book Project|
+| 03/26/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Mini-Book JSX & CSS|
