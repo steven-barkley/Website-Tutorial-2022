@@ -1,8 +1,9 @@
 import React from 'react';
 // Need to inject component functions Greetings into the index.html root need to use//
 import ReactDOM from 'react-dom';
+//import './App.css';
 // ReactDom uses a renderMethod ... used at end of file
-import "./index.css";
+//import './App.css';
 // We can create functions however we like function() or arrow function => *//
 // Stateless functional component
 // JSX Rules
@@ -60,40 +61,32 @@ import "./index.css";
 //CSS
 // ./ mean same folder reference
 
-
+//Setup vars
+const title = "I love you to the Moon and Back";
+const author = "Amelia Hepworth"
+const img = 'https://images-na.ssl-images-amazon.com/images/I/51p2SDOCV9L._SX482_BO1,204,203,200_.jpg'
 function BookList() {
   return (
-    <section>
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
+    <section >
+      <Book job='developer' />
+      <Book title='random title' number={ 22 } />
+
     </section>
   );
 }
-const Book = () => {
-  return <article>
-    <Image></Image>
-    <Author />
-    <Title />
-  </article>
+const Book = ( props ) => {
+  console.log( props )
+  return (
+    <article>
+      <img src={ img } alt='' />
+      <h1> { title } </h1>
+      <h4> { author } </h4>
+      <p> { props.job }</p>
+      <p>{ props.title }</p>
+    </article>
+  )
 }
-const Image = () => {
-  return <img
-    src='https://images-na.ssl-images-amazon.com/images/I/51h4pfU8jwL._SX436_BO1,204,203,200_.jpg'
-  />
-};
-const Author = () => {
-  return <h4>
-    Amelia Hepworth
-  </h4>
-};
-const Title = () => {
-  return <h1>I-Love-You-Moon-Back</h1>
-}
+
 ReactDOM.render( <BookList />, document.getElementById( 'root' ) )
 
 // //Pass JSX as <i></i> or <i/>
