@@ -83,6 +83,7 @@ const Book = ( props ) => {
       <h4> { author } </h4>
       <p> { props.job }</p>
       <p>{ props.title }</p>
+      <p>{ props.number }</p>
     </article>
   )
 }
