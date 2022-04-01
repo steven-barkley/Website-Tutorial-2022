@@ -80,4 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | 03/28/22 |I did not code or push| N/A|
 | 03/29/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Mini-Book Props|
 | 03/30/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Mini-Book Lists|
-| 03/31/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Watching Only|
+| 03/31/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4 REACTJS.ORG DOCS| Finished VIDEO & Began REACTJS DOCS |
+| 03/31/22 |www.reactjs.or| Add React to a Website |
