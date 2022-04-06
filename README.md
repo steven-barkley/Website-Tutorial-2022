@@ -85,6 +85,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | 04/02/22 |The REACT show podcast|No MUI??|
 | 04/03/22 |https://www.w3schools.com/| HTML |
 | 04/04/22 |Front-End Developer |Interview at Qlink Wireless |
-| 04/05/22 || |
+| 04/05/22 |https://www.w3schools.com/| Relearning Javascript|
 | 04/06/22 || |
 
