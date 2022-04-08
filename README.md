@@ -86,5 +86,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | 04/03/22 |https://www.w3schools.com/| HTML |
 | 04/04/22 |Front-End Developer |Interview at Qlink Wireless |
 | 04/05/22 |https://www.w3schools.com/| Relearning Javascript|
-| 04/06/22 || |
+| 04/05/22 |https://www.w3schools.com/| Javascript 75% |
+| 04/07/22 |Slack/Google Meet/ Dicord|GoatPad *Reddit Clone in React* |
+| 04/08/22 |https://www.stevenbarkley.com| Build and Run on Netlify |
+| 04/09/22 || |
 
