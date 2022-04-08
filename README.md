@@ -81,7 +81,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | 03/29/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Mini-Book Props|
 | 03/30/22 |https://www.youtube.com/watch?v=4UZrsTqkcW4| Mini-Book Lists|
 | 03/31/22 |www.reactjs.or| Add React to a Website |
-| 04/01/22 |https://www.w3schools.com/| |
+| 04/01/22 |https://www.w3schools.com/| Previewed * JS CSS & HTML * |
 | 04/02/22 |The REACT show podcast|No MUI??|
 | 04/03/22 |https://www.w3schools.com/| HTML |
 | 04/04/22 |Front-End Developer |Interview at Qlink Wireless |
