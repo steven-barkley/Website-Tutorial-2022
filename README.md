@@ -90,23 +90,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 | 04/07/22 |Slack/Google Meet/ Dicord|GoatPad *Reddit Clone in React* |
 | 04/07/22 |https://www.stevenbarkley.com| Build and Run on Netlify |
 | 04/08/22 |https://github.com/steven-barkley/App-Menuqu-2022|Updated README |
-| 04/09/22 |https://www.w3schools.com/|Javascript %|
-| 04/10/22 |https://www.w3schools.com/|Javascript %|
-| 04/11/22 |https://www.w3schools.com/|Javascript %|
-| 04/12/22 |https://www.w3schools.com/|Javascript %|
-| 04/13/22 |https://www.w3schools.com/|Javascript %|
-| 04/14/22 |https://www.w3schools.com/|Javascript %|
-| 04/15/22 |https://www.w3schools.com/|Javascript %|
-| 04/16/22 |https://www.w3schools.com/|Javascript %|
-| 04/17/22 |https://www.w3schools.com/|Javascript %|
-| 04/18/22 |https://www.w3schools.com/|Javascript %|
-| 04/19/22 |https://www.w3schools.com/|Javascript %|
-| 04/20/22 |https://www.w3schools.com/|Javascript %|
-| 04/21/22 |https://www.w3schools.com/|Javascript %|
-| 04/22/22 |https://www.w3schools.com/|Javascript %|
-| 04/23/22 |https://www.w3schools.com/|Javascript %|
-| 04/24/22 |https://www.w3schools.com/|Javascript %|
-| 04/25/22 |https://www.w3schools.com/|Javascript %|
-| 04/26/22 |https://www.w3schools.com/|Javascript %|
-| 04/27/22 |https://www.w3schools.com/|Javascript %|
-| 04/28/22 |https://www.w3schools.com/|Javascript %|
+| 04/09/22 |https://www.w3schools.com/| Javascript 85% |
+| 04/10/22 |Github Projects | MARKDOWN |
+| 04/11/22 |Github Projects | MARKDOWN |
+| 04/12/22 |Github Projects | MARKDOWN |
+| 04/13/22 |Github Projects | MARKDOWN |
+| 04/14/22 |Github Projects | MARKDOWN / Project Organization|
+| 04/15/22 |Github Projects | MARKDOWN / Project Organization|
+| 04/16/22 |Github Projects | MARKDOWN / Project Organization|
+| 04/17/22 |Github Projects | MARKDOWN / Project Organization|
+| 04/18/22 |Github Projects | MARKDOWN / Project Organization|
+| 04/19/22 |Github Projects | MARKDOWN / Project Organization|
+| 04/20/22 |Github Projects | MARKDOWN / Project Organization|
+| 04/21/22 |Github Projects | Interveiw Qlik / Project Organization|
+| 04/22/22 |Github Projects | Interveiw Qlik / Project Organization|
+| 04/23/22 |Github Projects | Interveiw Qlik / Project Organization|
+| 04/24/22 |Github Projects | Interveiw Qlik / Project Organization|
+
